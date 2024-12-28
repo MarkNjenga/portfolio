@@ -1,7 +1,7 @@
 import React from 'react';
 
 const About = () => {
-    const imageUrl = '/src/assets/WhatsApp Image 2024-12-26 at 17.44.04.jpeg';
+    const imageUrl = 'https://drive.google.com/file/d/1Bel3xEtCbu8r5alCUwkNmmSpYzrclche/view?usp=sharing';
     return ( 
         <div id='about' className="about">
             <h1 className="about__title">About me</h1>
