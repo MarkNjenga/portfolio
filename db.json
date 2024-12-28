@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Ticket Onclick",
+            "description": "Our platform aims to simplify the event discovery and booking process by offering a user-friendly interface, secure payment processing, and real-time ticket availability updates. It caters to both event organizers and attendees, ensuring a seamless experience for all users",
+            "img": "https://tinyurl.com/4wcjkyn8",
+            "live": "https://ticket-onclick-8ige.vercel.app/"
+        },
+        {
+            "id": 2,
+            "title": "Bot Battlr",
+            "description": "Get access to over a hundred bots and create an army of your own by adding, removing and even discharging bots.",
+            "img": "/src/assets/bot.jpeg",
+            "live":"https://comforting-medovik-7cdea9.netlify.app/"
+        },
+        {
+            "id": 3,
+            "title": "SHopping list",
+            "description": "Shop effectively by planning adequately through a shoppinglist app",
+            "img": "/src/assets/Nutrition and Food, Well-Done.jpeg",
+            "live": "https://spizzoh.netlify.app/"
+        }
+    ]
+}
