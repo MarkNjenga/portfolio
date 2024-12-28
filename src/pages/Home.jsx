@@ -8,7 +8,7 @@ const Home = () => {
             <div id="home" className="home-content">
                 {/* Profile Image */}
                 <div className="home-image">
-                    <img src="/src/assets/WhatsApp Image 2024-12-26 at 18.07.34 (1).jpeg" alt="Profile" />
+                    <img src="/public/assets/WhatsApp Image 2024-12-26 at 18.07.34 (1).jpeg" alt="Profile" />
                 </div>
 
                 {/* Intro Text */}
@@ -21,7 +21,7 @@ const Home = () => {
                     
                     {/* Call-to-action Section */}
                     <div className="home-cta">
-                        <a href="/src/assets/resume (2).pdf" target="_blank" className="resume-btn">
+                        <a href="/public/assets/resume (2).pdf" target="_blank" className="resume-btn">
                             View Resume
                         </a>
                         <ul className="highlights">

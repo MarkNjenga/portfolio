@@ -58,15 +58,15 @@ const Contact = () => {
                 <p>You can also find me on the following platforms:</p>
                 <div className="social-links">
                     <a href="https://www.linkedin.com/in/mark-wanjiku-708654304/" target="_blank" rel="noopener noreferrer">
-                        <img src="/src/assets/linkedin.png" alt="LinkedIn" />
+                        <img src="/public/assets/linkedin.png" alt="LinkedIn" />
                         <span>LinkedIn</span>
                     </a>
                     <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="/src/assets/icons8-github-48.png" alt="GitHub" />
+                        <img src="/public/assets/icons8-github-48.png" alt="GitHub" />
                         <span>GitHub</span>
                     </a>
                     <a href="https://www.instagram.com/algorithm_mark/" target="_blank" rel="noopener noreferrer">
-                        <img src="/src/assets/ins-removebg-preview.png" alt="Instagram" />
+                        <img src="/public/assets/ins-removebg-preview.png" alt="Instagram" />
                         <span>Instagram</span>
                     </a>
                 </div>
@@ -115,7 +115,7 @@ const Contact = () => {
                 <h3>Or reach out via:</h3>
                 <div className="social-links">
                     <a href={`https://wa.me/254769992344?text=Hello,%20I%20want%20to%20get%20in%20touch!`} target="_blank" rel="noopener noreferrer">
-                        <img src="/src/assets/whatsapp-removebg-preview.png" alt="WhatsApp" />
+                        <img src="/public/assets/whatsapp-removebg-preview.png" alt="WhatsApp" />
                         <span>WhatsApp</span>
                     </a>
                 </div>

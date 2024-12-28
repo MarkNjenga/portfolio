@@ -1,7 +1,7 @@
 import React from 'react';
 
 const About = () => {
-    const imageUrl = 'https://drive.google.com/file/d/1Bel3xEtCbu8r5alCUwkNmmSpYzrclche/view?usp=sharing';
+    const imageUrl = '/public/assets/WhatsApp Image 2024-12-26 at 17.44.04.jpeg';
     return ( 
         <div id='about' className="about">
             <h1 className="about__title">About me</h1>
@@ -24,11 +24,11 @@ const About = () => {
                     <div className="technologies">
                         <h3 className="technologies-title">Technologies</h3>
                         <div className="tech-icons">
-                            <img src="/src/assets/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-removebg-preview.png" alt="Javascript logo" />
-                            <img src="/src/assets/react-removebg-preview.png" alt="React logo" />
-                            <img src="/src/assets/python-logo-removebg-preview.png" alt="Python logo" />
-                            <img src="/src/assets/django-framework1720881581.logowik.com-Photoroom.png" alt="Django logo" />
-                            <img src="/src/assets/flask-icon-removebg-preview.png" alt="Flask Logo" />
+                            <img src="/public/assets/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-removebg-preview.png" alt="Javascript logo" />
+                            <img src="/public/assets/react-removebg-preview.png" alt="React logo" />
+                            <img src="/public/assets/python-logo-removebg-preview.png" alt="Python logo" />
+                            <img src="/public/assets/django-framework1720881581.logowik.com-Photoroom.png" alt="Django logo" />
+                            <img src="/public/assets/flask-icon-removebg-preview.png" alt="Flask Logo" />
                         </div>
                     </div>
                 </div>
