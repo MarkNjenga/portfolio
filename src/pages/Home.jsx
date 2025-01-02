@@ -8,7 +8,7 @@ const Home = () => {
             <div id="home" className="home-content">
                 {/* Profile Image */}
                 <div className="home-image">
-                    <img src="/public/assets/WhatsApp Image 2024-12-26 at 18.07.34 (1).jpeg" alt="Profile" />
+                    <img src="/assets/WhatsApp Image 2024-12-26 at 18.07.34 (1).jpeg" alt="Profile" />
                 </div>
 
                 {/* Intro Text */}
