@@ -11,14 +11,14 @@
             "id": 2,
             "title": "Bot Battlr",
             "description": "Get access to over a hundred bots and create an army of your own by adding, removing and even discharging bots.",
-            "img": "/public/assets/bot.jpeg",
+            "img": "/assets/bot.jpeg",
             "live":"https://comforting-medovik-7cdea9.netlify.app/"
         },
         {
             "id": 3,
             "title": "SHopping list",
             "description": "Shop effectively by planning adequately through a shoppinglist app",
-            "img": "/public/assets/Nutrition and Food, Well-Done.jpeg",
+            "img": "/assets/Nutrition and Food, Well-Done.jpeg",
             "live": "https://spizzoh.netlify.app/"
         }
     ]

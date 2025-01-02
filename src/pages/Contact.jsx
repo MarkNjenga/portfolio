@@ -32,7 +32,7 @@ const Contact = () => {
     };
 
     return (
-<div id="contact" className="contact-page">
+    <div id="contact" className="contact-page">
     <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to send me an email via Gmail. You can also reach out to me via WhatsApp if you prefer!</p>
     
@@ -58,15 +58,15 @@ const Contact = () => {
                 <p>You can also find me on the following platforms:</p>
                 <div className="social-links">
                     <a href="https://www.linkedin.com/in/mark-wanjiku-708654304/" target="_blank" rel="noopener noreferrer">
-                        <img src="/public/assets/linkedin.png" alt="LinkedIn" />
+                        <img src="/assets/linkedin.png" alt="LinkedIn" />
                         <span>LinkedIn</span>
                     </a>
                     <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="/public/assets/icons8-github-48.png" alt="GitHub" />
+                        <img src="/assets/icons8-github-48.png" alt="GitHub" />
                         <span>GitHub</span>
                     </a>
                     <a href="https://www.instagram.com/algorithm_mark/" target="_blank" rel="noopener noreferrer">
-                        <img src="/public/assets/ins-removebg-preview.png" alt="Instagram" />
+                        <img src="/assets/ins-removebg-preview.png" alt="Instagram" />
                         <span>Instagram</span>
                     </a>
                 </div>
@@ -122,7 +122,7 @@ const Contact = () => {
             </div>
         </div>
     </div>
-</div>
+ </div>
 
     );
 };
